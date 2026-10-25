@@ -19,6 +19,9 @@ Los jugadores solo abren su launcher y este descarga todo solo.
 - El release debe estar **publicado** (no vale draft ni prerelease).
 - El tag tiene que ser DISTINTO al de la version anterior.
 - Los nombres de los assets deben contener `DisasterWin` y `BetterServerWin`.
+- `publicar.ps1` excluye solo los archivos privados (`amy_canon.token`,
+  `Config.json`, operadores/baneos, `*.pdb`): la clave de Amy Canon nunca
+  viaja en un zip.
 
 ---
 Basado en el Disaster Launcher original de Team Exe Empire (MIT).
