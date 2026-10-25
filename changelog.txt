@@ -1,0 +1,17 @@
+========================================
+ TD2DR - Amy Canon + Sonic (changelog)
+========================================
+Este archivo se muestra DENTRO del launcher.
+Actualizalo cada vez que publiques una version.
+
+v110
+- Amy Canon queda oculta en la seleccion de personajes si no hay token
+- Sonic como sobreviviente #7 (spindash + drop dash)
+- Musicas de ending segun cuantos escapan (Best / Solo / Duo / Standard)
+- La transicion al lobby espera a que termine la musica
+
+v109
+- (ejemplo de entrada vieja) primeras pruebas del mod
+
+v108
+- (ejemplo) Amy Canon por token en servidor
